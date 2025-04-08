@@ -1,0 +1,12 @@
+{
+  "Settings": {
+    "baseUrl": "https://mine.qubic.li/",
+    "amountOfThreads": 1,
+    "payoutId": null,
+    "accessToken": "eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJJZCI6Ijc3NWYwYTgxLTc4OGEtNDgxOS05NDJlLThmOGNlZGEwMzQ3ZiIsIk1pbmluZyI6IiIsIm5iZiI6MTcyMjU1ODU5MCwiZXhwIjoxNzU0MDk0NTkwLCJpYXQiOjE3MjI1NTg1OTAsImlzcyI6Imh0dHBzOi8vcXViaWMubGkvIiwiYXVkIjoiaHR0cHM6Ly9xdWJpYy5saS8ifQ.AuGz-Y8pde14JsbG_WO3mW8tXkMTwKkXLjnJ1kDz9UKDuykk4h80SfWj5cT2JD0r3y9npZ4LzPjugBliLGp5Sw",
+    "alias": "Qubic",
+    "trainerBinary": "qli-runner",
+    "trainer": {"cpu": true, "cpuVersion": "AVX512"},
+    "checkUpdateEnabled": false
+  }
+}
